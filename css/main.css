@@ -17,7 +17,9 @@ html {
 }
 
 .polaroid:nth-child(1) {
-  left: 20em;
+  left: 12em;
+  top:5em;
+  transform: rotateX(12deg);
 }
 
 .polaroid > img {
