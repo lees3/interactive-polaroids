@@ -19,19 +19,19 @@ body .polaroid {
 .polaroid:nth-child(1) {
   left: 12em;
   top: 5em;
-  transform: rotateX(12deg);
+  transform: rotate(12deg);
 }
 
 .polaroid:nth-child(2) {
   left: 18em;
-  top: 5em;
-  transform: rotateX(12deg);
+  top: -70em;
+  transform: rotate(12deg);
 }
 
 .polaroid:nth-child(3) {
   left: 12em;
   top: 5em;
-  transform: rotateX(12deg);
+  transform: rotate(5deg);
 }
 
 .polaroid > img {
