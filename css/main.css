@@ -16,6 +16,10 @@ html {
   box-shadow: 1px 4px 6px rgba(0, 0, 0, .5);
 }
 
+.polaroid:nth-child(1) {
+  left: 20em;
+}
+
 .polaroid > img {
   display: block;
   width: 100%;
