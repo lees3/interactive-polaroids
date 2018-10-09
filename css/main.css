@@ -18,20 +18,20 @@ body .polaroid {
 
 .polaroid:nth-child(1) {
   left: 12em;
-  top: 5.25em;
-  transform: rotate(-12.5deg);
+  top: 6.21em;
+  transform: rotate(-12.25deg);
 }
 
 .polaroid:nth-child(2) {
   left: 18em;
-  top: -75em;
+  top: -.75em;
   transform: rotate(5deg);
   z-index: 3;
 }
 
 .polaroid:nth-child(3) {
   left: 24em;
-  top: -14em;
+  top: -13.92em;
   transform: rotate(33deg);
 }
 
@@ -43,7 +43,7 @@ body .polaroid {
 .polaroid:hover {
   z-index: 5;
   transform: rotate(0deg);
-  box-shadow: 5px 5px 5px 5px;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, .5);
 }
 
 .polaroid > figcaption {
