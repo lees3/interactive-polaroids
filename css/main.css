@@ -30,4 +30,7 @@ html {
 .polaroid > figcaption {
   color: #fff;
   text-shadow: 1px 1px 3px #000;
+  position: absolute;
+  bottom: 1.25em;
+  left: 5.25em;
 }
