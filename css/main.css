@@ -36,5 +36,6 @@ html {
 }
 
 .polaroid {
-  transition: all
+  transition: all 200ms linear;
+
 }
