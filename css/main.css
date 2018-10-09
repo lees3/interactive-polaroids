@@ -34,3 +34,7 @@ html {
   bottom: 1.25em;
   left: 5.25em;
 }
+
+.polaroid {
+  transition: all
+}
