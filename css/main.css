@@ -39,6 +39,10 @@ body .polaroid {
   width: 100%;
 }
 
+.polaroid:hover {
+  transition: all 100ms linear;
+}
+
 .polaroid > figcaption {
   color: #fff;
   text-shadow: 1px 1px 3px #000;
